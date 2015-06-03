@@ -23,11 +23,11 @@
                             <h3>Contact</h3>
 
                             <ul class="list-unstyled contact">
-                                <li><p><strong><i class="fa fa-map-marker"></i> Address:</strong> vaisahali, jaipur, 302012</p></li> 
-                                <li><p><strong><i class="fa fa-envelope"></i> Mail Us:</strong> <a href="#">Support@designmylife.com</a></p></li>
-                                <li> <p><strong><i class="fa fa-phone"></i> Phone:</strong> +91 1800 2345 2132</p></li>
-                                <li> <p><strong><i class="fa fa-print"></i> Fax</strong> 1800 2345 2132</p></li>
-                                <li> <p><strong><i class="fa fa-skype"></i> Skype</strong> assan.856</p></li>
+                                <li><p><strong><i class="fa fa-map-marker"></i> Address:</strong> 198#Jianlong Rd, Nanming District,Guiyang City,GuiZhou Province,China</p></li> 
+                                <li><p><strong><i class="fa fa-envelope"></i> Mail Us:</strong> <a href="#">kingwolf618@hotmail.com</a></p></li>
+                                <li> <p><strong><i class="fa fa-phone"></i> Phone:</strong> +86 181 9856 4684</p></li>
+                                <li> <p><strong><i class="fa fa-print"></i> Fax</strong> +86 181 9856 4684</p></li>
+                                <li> <p><strong><i class="fa fa-skype"></i> QQ</strong> 695012159</p></li>
 
                             </ul>
                         </div>                        
@@ -69,7 +69,7 @@
                 <div class="row">
                     <div class="col-md-12 text-center">
                         <div class="footer-btm">
-                            <span>&copy;2014. Theme by Design_mylife</span>
+                            <span>&copy;2015. copyright by wangyi</span>
                         </div>
                     </div>
                 </div>

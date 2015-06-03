@@ -3,8 +3,8 @@
 		<div class="top-bar">
 			<div class="pull-left sample-1right">
 				<a><i class="fa fa-phone"></i> Any questions? Call us: <span
-					class="colored-text">+02 34543454</span> </a> <a><i
-					class="fa fa-envelope"></i> Mail us: <span class="colored-text">Support@domain.com</span>
+					class="colored-text">+86 18198564684</span> </a> <a><i
+					class="fa fa-envelope"></i> Mail us: <span class="colored-text">kingwolf618@hotmail.com</span>
 				</a>
 			</div>
 			<div class="pull-right">
