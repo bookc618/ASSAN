@@ -1,0 +1,36 @@
+Thank you very much for choosing Assan theme
+
+the latest version of assan v1.6 is includes sass file for easily customization
+
+we using sass, compass and ruby on rails into this version
+
+
+multi page scss file is - style.scss into scss fodler
+
+single page scss file is - one-page.scss into scss folder.
+
+currently we includes sass file for easily color, fonts changes
+
+     ------------------how to cahnge color of multipage theme
+
+           1-open scss folder
+           2- open varialbes.scss file
+           3 - set your favrt color code here - $skincolor:#9eca45;//Theme default color code, paste your own code here
+
+
+
+
+     ------------------how to cahnge color of one page theme
+
+1- open scss folder
+2- open one-page.scss file
+3- set your favrt color code here - $skincolor:#9eca45;//Theme default color code, paste your own code here
+
+
+into future updates we make more easier asaan theme for fast changes
+
+using more variables mixins.
+
+hope you understand 
+
+for free and fast support mail me - mylifedesign143@gmail.com
